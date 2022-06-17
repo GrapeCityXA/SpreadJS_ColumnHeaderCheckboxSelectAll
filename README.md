@@ -1,0 +1,2 @@
+# SpreadJS_ColumnHeaderCheckboxSelectAll
+列头添加复选框全选功能
